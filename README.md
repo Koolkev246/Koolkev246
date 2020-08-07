@@ -18,13 +18,13 @@
 </br>
 ---
 
-### Connect with me:
+### Visit my sites:
 
 - https://koolkev246.weebly.com </br>
 - https://koolkev246.github.io</br>
 - https://koolkev246.github.io/interactive</br>
 - https://koolkev246.github.io/winxp</br>
-</br>
+
 ---
 <img align="left" alt="Koolkev246's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Koolkev246&show_icons=true&hide_border=true" />
 
