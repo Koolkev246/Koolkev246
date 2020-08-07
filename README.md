@@ -18,7 +18,8 @@
 </br>
 ---
 </br>
-###</br> Check out my sites! </br>
+### Connect with me:
+
 - https://koolkev246.weebly.com </br>
 - https://koolkev246.github.io</br>
 - https://koolkev246.github.io/interactive</br>
