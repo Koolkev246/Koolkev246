@@ -14,7 +14,7 @@
 [<img align="left" alt="Koolkev246 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Koolkev246 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Koolkev246 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Koolkev246 | Discord Group" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Discord.svg" />][Discord]
+[<img align="left" alt="Koolkev246 | Discord Group" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 </br>
 ---
 
