@@ -17,7 +17,7 @@
 [<img align="left" alt="Koolkev246 | Discord Group" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 </br>
 ---
-</br>
+
 ### Connect with me:
 
 - https://koolkev246.weebly.com </br>
