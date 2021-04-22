@@ -25,7 +25,6 @@
 
 ---
 <img align="left" alt="Koolkev246's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Koolkev246&show_icons=true&hide_border=true" />
-<img align="left" alt="Koolkev246's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koolkev246&show_icons=true&hide_border=true" />
 
 [website]: https://Koolkev246.xyz
 [twitter]: https://twitter.com/Koolkev246_
