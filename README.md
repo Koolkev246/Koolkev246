@@ -4,7 +4,7 @@
 - 🔭 I’m currently a student at GSMST!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 I love making videos
+- 🎮 I love playing games
 - ⚡ Fun fact: your mom
 
 ### Connect with me:
