@@ -1,7 +1,8 @@
 ### Hi there, I'm Kevin - aka [Koolkev246][website] 👋
 
 ## I'm a YouTuber, Streamer, Developer, and Gamer!
-- 🔭 I’m currently a student at GSMST!
+- 🔭 I’m attending the Georgia Institute of Technology!
+- 🔭 I’ve graduated GSMST!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🎮 I love playing games
