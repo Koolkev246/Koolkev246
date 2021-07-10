@@ -28,7 +28,7 @@
 <img align="left" alt="Koolkev246's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Koolkev246&show_icons=true&hide_border=true" />
 
 [website]: https://Koolkev246.xyz
-[twitter]: https://twitter.com/Koolkev246_
+[twitter]: https://twitter.com/Koolkev246
 [youtube]: https://youtube.com/Koolkev246
 [instagram]: https://instagram.com/Koolkev246
 [twitch]: https://twitch.tv/Koolkev246
