@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to meet new people!
 - 🎮 I love playing games
+- 📝 Main Programming Languages: Java, C#
 - ⚡ Fun fact: your mom
 
 ### Connect with me:
