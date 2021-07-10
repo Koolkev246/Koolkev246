@@ -4,7 +4,7 @@
 - 🔭 I’m attending the Georgia Institute of Technology!
 - 🔭 I’ve graduated GSMST!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to meet new people!
 - 🎮 I love playing games
 - ⚡ Fun fact: your mom
 
